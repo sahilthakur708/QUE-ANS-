@@ -1,0 +1,73 @@
+1. Which one of the following is an Imperative Language??
+
+1.	HTML
+2.	CSS
+3.	Java Script
+
+Answer: 	java script
+
+
+2. Which one of the following is a Declarative Language??
+
+1.	HTML
+2.	CSS
+3.	Java Script
+
+Answer: HTML and CSS
+
+
+3. Name two uses of a DIV tag??
+
+Answer: The  two uses of DIV tag are:-
+
+1) The DIV tag is used  to design a specific element by adding it to the div class.
+2) The DIV tag is used as a container to contain the html elements.
+
+
+4. What is the difference between relative positioning and absolute positioning in HTML?
+
+Answer: Relative positioning keeps the element in the normal document flow, while absolute positioning takes it out of the normal document flow.
+
+
+5. What is the use of opacity in CSS??
+
+Answer: Opacity is used as the visibility of the object in CSS.
+
+
+6. Which is the programming language used in the React Native Framework??
+
+Answer: JSX programming language is used in React Native Framework.
+
+
+7. Which online editor are we using for creating our apps in React Native Framework??
+
+Answer: Snack online editor we using for creating our apps in React Native Framework.
+
+
+8. Write the steps to test your first designed app in the online editor on a mobile.
+
+Answer: 1) We will click on android and scan the QR code with the EXPO.
+        2) We will click on play of the android app.
+
+
+9. What is the use of the render function in React Native Framework??
+
+Answer: Render function is used to display the elements of return on the screen.
+
+
+10. What is the use of return function  in React Native Framework??
+
+Answer: return is used to take the elements creating argument and to give its value to the render.
+
+
+11. What are the various components in your first app that you designed??
+
+Answer: 1) We have imported the  libraries.
+        2) We have imported the button veiw and the text to the app.
+        3) We have used the class of red button and created button in it.
+        4) We have used the render and the return function in the class.
+        5) We have used the app class and used the red button class in it.
+
+
+
+
